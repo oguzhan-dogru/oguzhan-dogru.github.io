@@ -6,9 +6,9 @@
   url: https://www.linkedin.com/in/oguzhandogru/
   external: true
   
-# - title: archive
-#   url: /archive/
-#   external: false
+- title: resume
+  url: /679_1.pdf
+  external: false
 
 - title: about
   url: /about/
