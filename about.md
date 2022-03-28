@@ -11,10 +11,6 @@ I'm a student at the University of Alberta, living in Edmonton.
 
 You can [report](http://github.com/oguzhan-dogru/od_blog3/issues/new) any issues. 
 
-**may u needs ✨**
-
-- {{ site.author.email }}
-- [Github](github.com/{{ site.author.github }})
 - [Linkedin](http://linkedin.com/in/oguzhandogru)
 - [Google Scholar](https://scholar.google.ca/citations?user=JSbo0GcAAAAJ&hl=en)
 - [ResearchGate](https://www.researchgate.net/profile/Oguzhan-Dogru-2)
