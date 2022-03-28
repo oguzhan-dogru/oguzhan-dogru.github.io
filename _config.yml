@@ -12,7 +12,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Oguzhan Dogru # author name
   bio: >- # tell to the world
-    Chemical engineer working on Computer vision, Process control, and Reinforcement learning.
+    Chemical engineer working on Computer vision, Process control, Reinforcement learning, etc.
   username: username # general username
   github: oguzhan-dogru # github username
   twitter: twitter_username # twitter username
