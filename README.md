@@ -1,6 +1,8 @@
 # About me
 
 
+Chemical engineer working on Computer vision, Process control, Reinforcement learning, etc.
+
 
 
 
