@@ -6,7 +6,7 @@ excerpt:
 comments: false
 ---
 
-I'm a student at the University of Alberta, living in Edmonton.  
+I'm a student at the University of Alberta, living in Edmonton. Some industrial applications are published in the following. 
 
 
 <!-- - [Linkedin](http://linkedin.com/in/oguzhandogru) -->
