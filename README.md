@@ -7,13 +7,9 @@ My research activities include theoretical expansion on the RL theory, developin
 
 
 
-<a href="https://oguzhan-dogru.github.io/" target="_blank" rel="noopener">https://oguzhan-dogru.github.io/</a>
-
-
-
-
-
 
 
 -------------
-Klisé <a href="https://klise.now.sh" target="_blank" rel="noopener">klise.now.sh</a>
+
+<a href="https://oguzhan-dogru.github.io/" target="_blank" rel="noopener">https://oguzhan-dogru.github.io/</a>
+
