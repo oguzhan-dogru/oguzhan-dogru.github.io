@@ -30,9 +30,9 @@ google_analytics: # leave it blank if not wish
 fb_appid:
 
 # Collection setting
-# collections:
-#   posts:
-#     output: true
+collections:
+  posts:
+    output: true
 
 # Markdown settings
 markdown: kramdown
