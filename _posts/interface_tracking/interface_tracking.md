@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2020-08-29 09:29:20 +0700
-categories: jekyll update
+title:  "Interface Tracking in Closed-Loop Control"
+date:   2022-11-01 12:00 -0600
+categories: research update
 ---
 This video demonstrates an end-to-end interface tracking application with several agents, filters, and controllers. 
 
