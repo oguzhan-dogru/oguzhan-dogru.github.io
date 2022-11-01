@@ -11,9 +11,9 @@ mode: dark # default theme "dark" | "light"
 # Profile settings
 author:
   name: Oguzhan Dogru # author name
-  bio: | # tell to the world
-    Experienced researcher in Machine Learning/Reinforcement Learning demonstrated by a record of 10 publications in peer-reviewed journals and conferences and several successful pilot-scale RL applications.\n
-    My research activities include theoretical expansion on the RL theory, developing industrial autonomous decision-making schemes, deploying Python codes through OPC & DeltaV DCS, building & managing high-performing control teams, and organizing industrial workshops. We deliver intelligent optimization, control, and monitoring tools for Fortune 500 companies.\n
+  bio: >- # tell to the world
+    Experienced researcher in Machine Learning/Reinforcement Learning demonstrated by a record of 10 publications in peer-reviewed journals and conferences and several successful pilot-scale RL applications.
+    \nMy research activities include theoretical expansion on the RL theory, developing industrial autonomous decision-making schemes, deploying Python codes through OPC & DeltaV DCS, building & managing high-performing control teams, and organizing industrial workshops. We deliver intelligent optimization, control, and monitoring tools for Fortune 500 companies.\n
   username: username # general username
   github: oguzhan-dogru # github username
   twitter: twitter_username # twitter username
