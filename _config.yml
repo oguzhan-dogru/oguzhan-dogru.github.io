@@ -29,10 +29,10 @@ permalink: /:title/
 google_analytics: # leave it blank if not wish
 fb_appid:
 
-Collection setting
-collections:
-  posts:
-    output: true
+# Collection setting
+# collections:
+#   posts:
+#     output: true
 
 # Markdown settings
 markdown: kramdown
