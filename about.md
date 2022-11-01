@@ -6,7 +6,16 @@ excerpt:
 comments: false
 ---
 
-I'm a student at the University of Alberta, living in Edmonton. Some industrial applications are published in the following. 
+Experienced researcher in Machine Learning/Reinforcement Learning demonstrated by a record of 10 publications in peer-reviewed journals and conferences and several successful pilot-scale RL applications. 
+
+My research activities include 
+- theoretical expansion on the RL theory, 
+- developing industrial autonomous decision-making schemes, 
+- deploying Python codes through OPC & DeltaV DCS, 
+- building & managing high-performing control teams, 
+- and organizing industrial workshops. 
+
+I have delivered intelligent optimization, control, and monitoring tools for Fortune 500 companies. Some industrial applications are published in the following. 
 
 
 <!-- - [Linkedin](http://linkedin.com/in/oguzhandogru) -->
