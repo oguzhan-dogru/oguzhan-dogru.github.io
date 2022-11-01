@@ -12,7 +12,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Oguzhan Dogru # author name
   bio: | # tell to the world
-    Chemical Engineer | Process Control |                            Applied Reinforcement Learning
+    Chemical Engineer | Process Control | Applied RL
     
     
   username: username # general username
