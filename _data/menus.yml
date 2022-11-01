@@ -2,10 +2,6 @@
   url: /
   external: false
 
-- title: archive
-  url: /archive/
-  external: false
-
 - title: linkedin
   url: https://www.linkedin.com/in/oguzhandogru/
   external: true
