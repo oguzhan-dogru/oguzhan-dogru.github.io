@@ -4,7 +4,7 @@ description: >- # site description
   My github <a href="https://github.com/oguzhan-dogru" target="_blank" rel="noopener">@github</a>.
 lang: en-US # default lang
 timezone: Canada/Mountain # set your timezone
-image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
+image: assets/img/ogp2.png # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/oguzhan-dogru/ # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
