@@ -12,15 +12,15 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Oguzhan Dogru # author name
   bio: 
-- >
-my long
-string
+    - >
+    my long
+    string
 
-many spaces above
-- my long
-string
+    many spaces above
+    - my long
+    string
 
-many spaces above
+    many spaces above
     
   username: username # general username
   github: oguzhan-dogru # github username
