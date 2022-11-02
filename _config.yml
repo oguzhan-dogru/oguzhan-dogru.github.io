@@ -12,12 +12,14 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Oguzhan Dogru # author name
   bio: # tell to the world
-    "Chemical Engineer Process Control Applied RL\n
+    "Chemical \
+    \n Engineer Process \\
+    Control Applied RL\n
     
-    bla1\n
+    \n bla1\n
     
-    bla2\n
-    
+    \ bla2\n
+    \ \ \
     bla3"
     
   username: username # general username
