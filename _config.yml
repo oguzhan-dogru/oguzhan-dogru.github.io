@@ -11,8 +11,16 @@ mode: dark # default theme "dark" | "light"
 # Profile settings
 author:
   name: Oguzhan Dogru # author name
-  bio: |+
-    Process Control | Applied RL | Data Science
+  bio: 
+- >
+my long
+string
+
+many spaces above
+- my long
+string
+
+many spaces above
     
   username: username # general username
   github: oguzhan-dogru # github username
