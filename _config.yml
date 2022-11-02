@@ -11,13 +11,9 @@ mode: dark # default theme "dark" | "light"
 # Profile settings
 author:
   name: Oguzhan Dogru # author name
-  bio: >-
-    very "long"
-    'string' with
-
-    paragraph gap, \n and
-    spaces.
-    
+  bio: |
+    very
+    very
   username: username # general username
   github: oguzhan-dogru # github username
   twitter: twitter_username # twitter username
