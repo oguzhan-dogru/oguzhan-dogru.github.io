@@ -12,7 +12,7 @@ Agent 2: Tunes a predictive controller.
 
 Agent 3: Optimizes the operation point.
 
-The controller moves the interface to the operation point while satisfying constraints.
+The controllers moves the estimated interface to the operation point while satisfying constraints.
 
 Check out the [Video][video].
 
