@@ -11,16 +11,8 @@ mode: dark # default theme "dark" | "light"
 # Profile settings
 author:
   name: Oguzhan Dogru # author name
-  bio: # tell to the world
-    "Chemical \
-    \n Engineer Process \\
-    Control Applied RL\n
-    
-    \n bla1\n
-    
-    \ bla2\n
-    \ \ \
-    bla3"
+  bio: | # tell to the world
+    Process Control | Applied RL | Data Science
     
   username: username # general username
   github: oguzhan-dogru # github username
