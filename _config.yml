@@ -11,12 +11,11 @@ mode: dark # default theme "dark" | "light"
 # Profile settings
 author:
   name: Oguzhan Dogru # author name
-  bio:
-  - |
-    very
-    very
-    very
-    very
+  bio: |
+    - very
+    - very
+    * very
+    * very
     very
   username: username # general username
   github: oguzhan-dogru # github username
