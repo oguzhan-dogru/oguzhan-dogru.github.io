@@ -4,7 +4,7 @@ title:  "Interface Tracking in Closed-Loop Control"
 date:   2022-11-01 12:00 -0600
 categories: research update
 ---
-This video demonstrates an end-to-end interface tracking application with several agents, filters, and controllers. 
+This video demonstrates an end-to-end interface tracking application with several agents, filters, and controllers.
 
 Agent 1: Receives an image and estimates the interface location.
 
