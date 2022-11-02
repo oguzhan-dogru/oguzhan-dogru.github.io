@@ -12,11 +12,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Oguzhan Dogru # author name
   bio: |+
-    Process Control 
-    
-    Applied RL 
-    
-    Data Science
+    Process Control | Applied RL | Data Science
     
   username: username # general username
   github: oguzhan-dogru # github username
